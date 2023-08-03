@@ -29,6 +29,6 @@ I believe that my analytical competence and strong communication qualities toget
 ### Feel free to contact 
 
 - [Email](natalia_konovalova@icloud.com)
-- [LinkedIn](https://www.linkedin.com/in/natalia-ds-198612241)
+- [LinkedIn](www.linkedin.com/in/nataliadatascience)
 - [Kaggle](https://www.kaggle.com/nataliamantyk)
 - [Telegram](https://t.me/KonovalovaDS)
