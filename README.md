@@ -1,6 +1,6 @@
 # <p align="center"> Good Day to Everyone 
 
-<p align="center"><img src = https://www.dqindia.com/wp-content/uploads/2020/12/data-science_opt-1280x720.jpg></p>
+<p align="center"><img src = https://www.dqindia.com/wp-content/uploads/2020/12/data-science_opt-1280x720.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarriere.fresenius.de%2Fen-US%2Fdigital-careers%2Ffocus-on-data-science&psig=AOvVaw2KNNbI0-dEHHqBnC0Rl3F2&ust=1711860008128000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODSjNuVm4UDFQAAAAAdAAAAABAE)></p>
 
 ## <p align="center"> My name is Natalia - passionate Data Scientist and Photography Enthusiast </p>
 
