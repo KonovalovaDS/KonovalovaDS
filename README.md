@@ -1,38 +1,41 @@
-# <p align="center"> Good Day to Everyone 
+# <center> Good Day to Everyone </center>
 
-<p align="center"><img src = https://mozartcultures.com/en/wp-content/uploads/2021/04/data-s.jpeg></p>
+<center><img src = https://mozartcultures.com/en/wp-content/uploads/2021/04/data-s.jpeg></center>
 
-## <p align="center"> My name is Natalia - passionate Data Scientist and Photography Enthusiast </p>
+## <center> My name is Natalia - passionate Data Scientist and Photography Enthusiast </center>
 
-As a Data Science Specialist, I am passionate about working with (big) data and applying machine learning techniques to solve real-world problems. Currently I am in the process to complete a Data Science program. I am confidently using the following libraries: Numpy, Pandas, Matplotlib, SciPy & Scikit-learn, Seaborn, Plotly and others. I know data structures, principles of OOP and modular programming; understand and use ML algorithms such as Linear & Logistics Regression, Decision Tree algorithm, Random Forest Classifier, Gradient Boosting, Clustering (k-means, DBSCAN).
+As a Data Scientist, I am passionate about working with data — from collection and cleaning to modeling and deployment — and applying **machine learning and AI techniques** to solve real-world problems.  
+Currently pursuing an **MSc in Data Science & Artificial Intelligence** (graduating 2026), I enjoy bridging theory with practice by building scalable, impactful projects.
 
-The projects I’ve been working on can be reviewed below.
+I am confident in working with **Python, SQL, PostgreSQL**, and have hands-on experience in:  
+- **Machine Learning**: Regression, Classification, Clustering, Ensembles (RF, XGBoost, CatBoost), Neural Networks  
+- **Big Data**: Modeling with **PySpark & Spark MLlib**  
+- **APIs & Web Parsing**: Automated data extraction using **Requests, BeautifulSoup, Selenium**  
+- **Deployment**: ML pipelines with **FastAPI & Docker**  
+- **EDA & Statistics**: Hypothesis testing, A/B testing, ANOVA, non-parametric tests  
+- **Visualization**: Pandas, Matplotlib, Seaborn, Plotly, SHAP  .
 
-I am currently open for new opportunities in the data science field, where I can leverage my analytical skills, communication qualities, and domain expertise to create value and impact for the organization. I am eager to learn new technologies, collaborate with diverse teams, and contribute to the ML-developing area.
 
-### So far have learned and made use of:
+### Currently Learning
+- Advanced **Deep Learning & Neural Networks**
+- **LLMs and Generative AI** applications
+- Best practices for **production-ready ML pipelines**
+- Cloud tools for scalable data science
 
-- Python, SQL;
-- EDA, Feature Engineering and Data wrangling;
-- Machine Learning;
-- Mathematical statistics;
-- Linear Algebra in the context of Linear Methods;
-- Mathematical Analysis in the context of an optimization problem;
-- ... *to be continued - learning every day*...
-
-### If interested, please have look at
-
+### Featured Projects
 
 | Portfolio | Description |
 |---|---|
-|[PROJECTS](https://github.com/KonovalovaDS/PROJECTS) | Projects I was exploring out of curiousity, gaining experience and enjoying learning new tools & techniques.|
-|[GAMES](https://github.com/KonovalovaDS/GAMES) | Click to have some fun with simple and primitive codes. |
-|[TRAINING PROJECTS](https://github.com/KonovalovaDS/TRAINING_PROJECTS) | Few case-studies performed following the ML-modeling learning path... |
-|[GISTS](https://gist.github.com/KonovalovaDS) | I really like this tool to store and share some useful codes and functions. Have a look, maybe you will like it too.|
+|[PROJECTS](https://github.com/KonovalovaDS/PROJECTS) | A collection of end-to-end ML projects. Highlights include:<br>🔹 **Student Dropout Prediction** — Random Forest pipeline, deployed via FastAPI & Docker<br>🔹 **Taxi Ride Duration (NYC)** — Regression modeling with feature engineering and XGBoost<br>🔹 **Customer Segmentation (RFM)** — Dimensionality reduction (PCA, t-SNE) & clustering|
+|[GAMES](https://github.com/KonovalovaDS/GAMES) | A fun collection of simple Python games I coded while exploring programming concepts.|
+|[TRAINING PROJECTS](https://github.com/KonovalovaDS/TRAINING_PROJECTS) | Case studies completed as part of my Data Science learning path (EDA, feature engineering, ML modeling).|
+|[GISTS](https://gist.github.com/KonovalovaDS) | Snippets, reusable functions, and coding utilities I often use in projects.|
 
 ### Feel free to contact 
 
 - [Email](natalia_konovalova@icloud.com)
-- [LinkedIn](www.linkedin.com/in/nataliadatascience/)
+- [LinkedIn](https://www.linkedin.com/in/natalia-ds-198612241)
 - [Kaggle](https://www.kaggle.com/nataliamantyk)
 - [Telegram](https://t.me/KonovalovaDS)
+
+
