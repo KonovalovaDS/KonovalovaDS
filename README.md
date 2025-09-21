@@ -29,6 +29,12 @@ Currently pursuing an **MSc in Data Science & Artificial Intelligence** (graduat
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" /> 
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/word2vec-3C78A9?logo=gensim&logoColor=white" alt="word2vec (gensim)">&nbsp;
+  <img src="https://img.shields.io/badge/Annoy-1DB954?logo=spotify&logoColor=white" alt="Annoy (Spotify)">&nbsp;
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" alt="spaCy">&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">&nbsp;
+  <img src="https://img.shields.io/badge/BM25%20Okapi-444444" alt="BM25 Okapi">
+  
 </p>
 
 I am confident in working with **Python, SQL, PostgreSQL**, and have hands-on experience in:  
