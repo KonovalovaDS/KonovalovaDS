@@ -50,7 +50,7 @@ I am confident in working with **Python, SQL, PostgreSQL**, and have hands-on ex
 
 | Portfolio | Description |
 |---|---|
-|[PROJECTS](https://github.com/KonovalovaDS/PROJECTS) | A collection of end-to-end ML projects. Highlights include:<br>🔹 **Student Dropout Prediction** — Random Forest pipeline, deployed via FastAPI & Docker<br>🔹 **Taxi Ride Duration (NYC)** — Regression modeling with feature engineering and XGBoost<br>🔹 **Customer Segmentation (RFM)** — Dimensionality reduction (PCA, t-SNE) & clustering|
+|[PROJECTS](https://github.com/KonovalovaDS/PROJECTS) | A collection of end-to-end ML projects. Highlights include: <br>🔹 **PyPI & FAQ Python Chatbot** - The chatbot delivers fast, local inference<br>🔹 **Student Dropout Prediction** — Random Forest pipeline, deployed via FastAPI & Docker<br>🔹 **Taxi Ride Duration (NYC)** — Regression modeling with feature engineering and XGBoost<br>🔹 **Customer Segmentation (RFM)** — Dimensionality reduction (PCA, t-SNE) & clustering|
 |[GAMES](https://github.com/KonovalovaDS/GAMES) | A fun collection of simple Python games I coded while exploring programming concepts.|
 |[TRAINING PROJECTS](https://github.com/KonovalovaDS/TRAINING_PROJECTS) | Case studies completed as part of my Data Science learning path (EDA, feature engineering, ML modeling).|
 |[GISTS](https://gist.github.com/KonovalovaDS) | Snippets, reusable functions, and coding utilities I often use in projects.|
